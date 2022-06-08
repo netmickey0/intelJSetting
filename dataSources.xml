@@ -1,0 +1,11 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Tibero - tibero@10.20.50.136" uuid="94b3d465-e203-417b-a68c-f58d306ce9cf">
+      <driver-ref>tibero</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.tmax.tibero.jdbc.TbDriver</jdbc-driver>
+      <jdbc-url>jdbc:tibero:thin:@10.20.50.136:8639:tibero</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</application>
