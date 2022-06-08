@@ -1,7 +1,0 @@
-<application>
-  <component name="LocalDatabaseDriverManager" version="201">
-    <driver id="tibero">
-      <artifact id="Tibero" name="Tibero" use="true" version="6.0" />
-    </driver>
-  </component>
-</application>
